@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome! I am happy you are here.
 
-You can use the [editor on GitHub](https://github.com/rberecka/rberecka.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## What is this?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have had a lot of conversations with code school grads/career switchers since I made the career
+switch from teaching into software engineering and thought it was about time to start collecting all those tips/
+resources etc. 
 
-### Markdown
+## CAVEATS APPLY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I hope you find some of these things useful. It is important to note that I am a cis/straight/white woman
+and your mileage may vary on some of these things. It may be useful to know that I am also a
+small-fat (still a lot of privelege there), very short, person that also handles anxiety & panic disorder.
 
-```markdown
-Syntax highlighted code block
+## Who is the for?
 
-# Header 1
-## Header 2
-### Header 3
+Stuff in here might be useful if you have just left code school or an internship and are: 
+* starting your careeras a software/web engineer/developer,
+* an early career engineer looking for your next job,
+* onboarding/mentoring a new engineer, 
+* your job involves knowledge sharing,
+* managing an earlier career engineer
 
-- Bulleted
-- List
+## Early Career Tips/Tricks/Resources
+TILOWIK = Things I Learned Or Wish I'd Known
 
-1. Numbered
-2. List
+1. TILOWIK while In code school
+2. TILOWIK while In code school internship
+3. PEP TALK!!!
+4. TILOWIK on the first job hunt
+5. General Job hunt resources
+6. TILOWIK when starting that first job
+7. Working with mentors & managers
 
-**Bold** and _Italic_ and `Code` text
+## Knowledge Sharing Tips/Tricks/Resources
 
-[Link](url) and ![Image](src)
-```
+1. On Assumptions
+2. On Questions
+3. Pep Talk!
+4. On Instructions
+5. On Expectations
+6. On Learning
+7. On Teaming
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Thoughts for Managers
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rberecka/rberecka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Things that made me stay in a job
+2. Things that made me want to quit
+3. Pep Talk!
